@@ -1,0 +1,31 @@
+body {
+    /* background: #10293a;*/
+    background-image: url(/home/kerry/Escritorio/CODES/Juego/img/forest.jpg);
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(255, 255, 255);
+    height:100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.kerry {
+    width: auto;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+
+}
+.kerry img{
+    float: left;
+
+}
+
+
